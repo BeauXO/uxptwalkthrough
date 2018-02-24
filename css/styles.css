@@ -96,7 +96,7 @@ a.btn-get {
 /* row 2 */
 
 .full-width {
-  background-image: url('../images/feet.jpg');
+  background-image: url('images/feet.jpg');
 
   background-size: cover;
   background-position: center;
